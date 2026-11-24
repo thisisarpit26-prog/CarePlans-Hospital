@@ -65,4 +65,3 @@ This is a **frontend demo for educational purposes only.** Not affiliated with a
 
 ---
 
-*© 2026 CarePlans Hospital | Student Project*
